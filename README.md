@@ -1,1 +1,1 @@
-This is the repository for quests.
+This is the repository for Quests.
