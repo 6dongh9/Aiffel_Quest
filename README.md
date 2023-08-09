@@ -1,1 +1,1 @@
-# Projects
+This is an example.
